@@ -11,8 +11,8 @@
 邮编：471000</b></p >
     </td>
     <td width="25%">
-      < img src="https://github.com/user-attachments/assets/08b1f0bb-cd8c-4c22-bb90-a8a0d09e8380
-.jpg" alt="证件照">      
+      < img src="/2_15136jpg'
+.jpg" width="100%">      
     </td>
   </tr>
 </table>

@@ -11,7 +11,8 @@
 邮编：471000</b></p >
     </td>
     <td width="25%">
-      < img src="/2_15136.jpg" width="100%">      
+      < img src="![证件照](https://github.com/user-attachments/assets/08b1f0bb-cd8c-4c22-bb90-a8a0d09e8380)
+.jpg" width="100%">      
     </td>
   </tr>
 </table>
@@ -43,6 +44,6 @@
 - 心理咨询师证书
 - 社会工作者证
 - 小学教师资格证
-![证件照](https://github.com/user-attachments/assets/adc06828-2014-4960-b91d-1aaf0e2470c0)
+
 
 

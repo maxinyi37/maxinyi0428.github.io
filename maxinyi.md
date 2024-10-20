@@ -43,5 +43,6 @@
 - 心理咨询师证书
 - 社会工作者证
 - 小学教师资格证
+![证件照](https://github.com/user-attachments/assets/adc06828-2014-4960-b91d-1aaf0e2470c0)
 
 
